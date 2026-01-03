@@ -1,0 +1,6 @@
+face_env/
+__pycache__/
+*.pyc
+.env
+*.docx
+*.csv
